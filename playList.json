@@ -1,0 +1,49 @@
+[
+    {
+        "title": "海外直播源1",
+        "titleEn": "Recommended 1",
+        "url": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u"
+    },
+    {
+        "title": "海外直播源2",
+        "titleEn": "Recommended 2",
+        "url": "https://raw.githubusercontent.com/0047ol/China-TV-Live-M3U8/refs/heads/main/tv.m3u"
+    },
+    {
+        "title": "海外直播源3",
+        "titleEn": "Recommended 3",
+        "url": "https://ghfast.top/raw.githubusercontent.com/TianmuTNT/iptv/main/iptv.m3u"
+    },
+    {
+        "title": "海外直播源4",
+        "titleEn": "Recommended 4",
+        "url": "https://raw.githubusercontent.com/ipstreet312/freeiptv/master/all.m3u"
+    },
+    {
+        "title": "海外直播源5",
+        "titleEn": "Recommended 6",
+        "url": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u"
+    },
+    {
+        "title": "中国直播源",
+        "titleEn": "China",
+        "url": "https://raw.githubusercontent.com/Rivens7/Livelist/refs/heads/main/CCTV.m3u"
+    },
+    {
+        "title": "游戏/动漫直播源",
+        "titleEn": "Game/Cartoon",
+        "url": "https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u"
+    },
+    {
+        "title": "香港",
+        "titleEn": "Hong Kong",
+        "url": "https://raw.githubusercontent.com/hujingguang/ChinaIPTV/main/cnTV_AutoUpdate.m3u8"
+    },
+    {
+        "title": "日本直播源",
+        "titleEn": "Japan",
+        "url": "https://raw.githubusercontent.com/luongz/iptv-jp/refs/heads/main/jp.m3u"
+    }
+]
+
+
