@@ -1,6 +1,6 @@
 {
     "location": {
-        "zh-hant": {
+        "zh-hans": {
             "title": "Dual Chat Pro",
             "content": "专业版",
             "actionName": "安装"
@@ -10,7 +10,7 @@
             "content": "Pro",
             "actionName": "Get"
         },
-        "zh-hans": {
+        "zh-hant": {
             "title": "Dual Chat Pro",
             "content": "專業版",
             "actionName": "安装"
